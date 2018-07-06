@@ -1,6 +1,6 @@
 # unit-4-game
 
-This is a game themed on the 1980's collectors cars, Garbage Pail Kids!
+This is a game themed on the 1980's collector cards, Garbage Pail Kids!
 Here's how the game works:
 There will be four cards displayed as buttons on the page.
 You will be shown a random number at the start of the game.
