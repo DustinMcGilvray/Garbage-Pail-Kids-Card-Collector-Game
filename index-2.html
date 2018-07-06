@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>GPK Card Collector</title>
+    <!--Reset Link-->
+    <link rel="style sheet" href="assets/css/reset.css">
+    <!--Favicon-->
+    <link rel="icon" href="assets/images/logo/favicon-gpk.jpg">
+    <!--jQuery CDN-->
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+    <!--BootStrap CSS-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+        crossorigin="anonymous">
+    <!--Local CSS Link-->
+    <link rel="stylesheet" href="assets/css/style-2.css">
+    <!--Google Font-->
+    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+</head>
+
+<body>
+
+    <!--Header-->
+
+    <header>
+        <img id="logo-banner" src="assets/images/logo/GPK_Logo_for-transparency.png" alt="">
+    </header>
+
+    <!--Main Body Content-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-2">
+                <div id="instruction-panel" class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">Instructions</h5>
+                        <p class="card-text">You will be given a random number at the start of the game. There are four cards below. By clicking
+                            on a card you will add a specific amount of points to your total score. You win the game by matching
+                            your total score to random number, you lose the game if your total score goes above the random
+                            number. The value of each card is hidden from you until you click on it. Each time when the game
+                            starts, the game will change values of each card.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-2">
+                <div id="image-card-1" class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="assets/images/cards/gpk-Apple-Cory.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text">GOAL</p>
+                        <span id="goalvalue"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-2">
+                <div id="image-card-2" class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="assets/images/cards/gpk-Adam-Bomb.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text">SCORE</p>
+                        <span id="scorevalue"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-2">
+                <div id="image-card-3" class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="assets/images/cards/gpk-Ailin-Al.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text">WIN</p>
+                        <span id="winvalue"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-2">
+                <div id="image-card-4" class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="assets/images/cards/gpk-Amazin-Grace.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text">LOSE</p>
+                        <span id="losevalue"></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+     <nav class="navbar fixed-bottom">
+        <a class="navbar-brand">
+            <img src="assets/images/logo/favicon-gpk.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> GPK Card Collector Game
+        </a>
+    </nav> 
+
+<!--Local JavaScript-->
+<script src="assets/javascript/game.js"></script>
+
+</body>
+
+</html>
