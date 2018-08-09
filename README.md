@@ -15,8 +15,7 @@ A new Goal Value will be presented at the beginning of every round and each imag
 
 A new round will start when you win or lose. The game will re-start when you reach six wins or loses, whichever comes first. The Win and Lose Counters will reset.
 
-
-
+![Screen Shot](assets/images/cardCollectorSS_one.jpg)
 
 
 # Link to App
