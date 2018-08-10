@@ -29,7 +29,7 @@ A new round will start when you win or lose. The game will re-start when you rea
 
 ## Acknowledgements
 Hat Tip to Mark Hinton and his Tutorial on Building a Slide-Out Navigation Menu! 
-(<iframe width="560" height="315" src="https://www.youtube.com/embed/xVYrz61IBpQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>)
+[Video Tutorial](https://youtu.be/xVYrz61IBpQ)
 
 ## Authors
 * Dustin McGilvray
