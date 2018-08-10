@@ -18,7 +18,18 @@ A new round will start when you win or lose. The game will re-start when you rea
 ![Screen Shot](assets/images/cardCollectorSS_one.jpg)
 
 
-# Link to App
+## Link to App
 ["Start Collecting!"](https://dustinmcgilvray.github.io/unit-4-game/)
 
+## Built With
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
 
+## Acknowledgements
+Hat Tip to Mark Hinton and his Tutorial on Building a Slide-Out Navigation Menu! 
+(<iframe width="560" height="315" src="https://www.youtube.com/embed/xVYrz61IBpQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>)
+
+## Authors
+* Dustin McGilvray
