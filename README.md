@@ -21,7 +21,7 @@ A new round will start when you win or lose. The game will re-start when you rea
 ## Link to App
 ["Start Collecting!"](https://dustinmcgilvray.github.io/unit-4-game/)
 
-## Built With
+## Crafted With
 * HTML5
 * CSS3
 * JavaScript
