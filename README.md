@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = assets/images/logo/GPK_Logo_for-transparency.png/>
+  <img src = assets/images/logo/GPK_Logo_for-transparency_cropped.png/>
 </p>
 
 
