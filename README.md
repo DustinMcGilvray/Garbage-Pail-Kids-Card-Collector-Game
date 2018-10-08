@@ -1,5 +1,9 @@
-# Card Collector
+<p align="center">
+  <img src = assets/images/logo/GPK_Logo_for-transparency_cropped.png/>
+</p>
 
+
+## Overview
 This is a game themed on the 1980's collector cards, Garbage Pail Kids!
 Here's how the game works:
 There will be four cards displayed as buttons on the page.
@@ -15,11 +19,21 @@ A new Goal Value will be presented at the beginning of every round and each imag
 
 A new round will start when you win or lose. The game will re-start when you reach six wins or loses, whichever comes first. The Win and Lose Counters will reset.
 
+![Screen Shot](assets/images/cardCollectorSS_one.jpg)
 
 
-
-
-# Link to App
+## Link to App
 ["Start Collecting!"](https://dustinmcgilvray.github.io/unit-4-game/)
 
+## Crafted With
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
 
+## Acknowledgements
+Hat Tip to Mark Hinton and his Tutorial on Building a Slide-Out Navigation Menu! 
+[Video Tutorial](https://youtu.be/xVYrz61IBpQ)
+
+## Authors
+* Dustin McGilvray
