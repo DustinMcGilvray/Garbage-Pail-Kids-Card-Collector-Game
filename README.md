@@ -1,5 +1,9 @@
-# Card Collector
+<p align="center">
+  <img src = assets/images/logo/GPK_Logo_for-transparency.png/>
+</p>
 
+
+## Overview
 This is a game themed on the 1980's collector cards, Garbage Pail Kids!
 Here's how the game works:
 There will be four cards displayed as buttons on the page.
