@@ -23,7 +23,7 @@ A new round will start when you win or lose. The game will re-start when you rea
 
 
 ## Link to App
-["Start Collecting!"](https://dustinmcgilvray.github.io/unit-4-game/)
+["Start Collecting!"](https://dustinmcgilvray.github.io/Garbage-Pail-Kids-Card-Collector-Game/)
 
 ## Crafted With
 * HTML5
