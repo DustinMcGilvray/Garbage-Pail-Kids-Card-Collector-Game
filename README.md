@@ -8,7 +8,7 @@ This is a game themed on the 1980's collector cards, Garbage Pail Kids!
 Here's how the game works:
 There will be four cards displayed as buttons on the page.
 You will be shown a random number at the start of the game.
-When you click on a card, it will add a specific amount of points to the your total score. 
+When you click on a card, it will add a specific amount of points to the total score. 
 The cards value will be hidden until you click a card.
 When a card is clicked, your score counter will be updated.
 
