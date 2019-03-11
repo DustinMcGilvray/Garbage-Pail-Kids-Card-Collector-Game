@@ -98,8 +98,9 @@ $("#image-card-2").on("click", function () {
 });
 
 $("#image-card-3").on("click", function () {
+  console.log("Click");
   score += image3;
-  $("#scorevalue").text(score);
+  $("#score-value").text(score);
   if (score === goal) {
     winCounter();
   } else if (score > goal) {
